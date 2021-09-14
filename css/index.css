@@ -1,5 +1,17 @@
+header {
+    text-align: center;
+
+}
+
 body {
     font-family: Courier New;
-    background-color: rgb(230, 202, 247);
+    background-color: white;
     text-align: center;
+}
+
+container {
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
