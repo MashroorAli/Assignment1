@@ -1,5 +1,9 @@
 header {
     text-align: center;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7bbad2aebfe9d62f8b301adef950c808edcdef2c
 }
 
 body {
@@ -13,6 +17,7 @@ container {
     width: 800px;
     margin-left: auto;
     margin-right: auto;
+<<<<<<< HEAD
 }
 
 content {
@@ -27,4 +32,6 @@ nav {
 main {
     width: 600px;
     float: right;
+=======
+>>>>>>> 7bbad2aebfe9d62f8b301adef950c808edcdef2c
 }
