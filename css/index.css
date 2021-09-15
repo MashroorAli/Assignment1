@@ -8,7 +8,7 @@
     text-align: center;
 }
 
-#container {
+#box {
     background-color: #023e8a;
     width: 800px;
     margin-left: auto;
@@ -27,4 +27,8 @@
 #main {
     width: 600px;
     float: right;
+}
+
+#footer {
+    clear: both;
 }
