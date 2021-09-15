@@ -14,3 +14,9 @@ a {
 #description {
     color:darkmagenta
 }
+
+#box {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
